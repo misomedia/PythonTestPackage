@@ -1,1 +1,2 @@
-\n#\tA package
+
+#	A package
